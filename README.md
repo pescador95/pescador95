@@ -1,1 +1,1 @@
-![pescador95's GitHub stats](https://github-readme-stats.vercel.app/api?username=pescador95&hide=contribs,prs)
+![pescador95's GitHub stats](https://github-readme-stats.vercel.app/api?username=pescador95)
