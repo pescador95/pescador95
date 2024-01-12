@@ -4,7 +4,7 @@
    <a >
       </br>
       Hi!<br/>
-My name is Iédio Júnior and I've always been passionate about technology, development and music. I am studying Software Engineering at Fundação Assis Gurgacz 
+My name is Iédio Júnior and I've always been passionate about technology, development and music. I studied Software Engineering at Fundação Assis Gurgacz 
 and currently working as a Developer Analyst at Aliare. I like to challenge myself and always learn something new at every opportunity.</div>
       <br/>
        <div style="display: inline_block" align="center">
@@ -18,7 +18,7 @@ and currently working as a Developer Analyst at Aliare. I like to challenge myse
    <a>
       </br>
       Olá!</br>
-Me chamo Iédio Júnior e sempre fui apaixonado por tecnologia, desenvolvimento e música. Estou estudando Engenharia de Software na Fundação Assis Gurgacz e atualmente trabalhando como Analista Desenvolvedor na Aliare. Gosto de me desafiar e de aprender algo novo sempre em toda oportunidade.</div>
+Me chamo Iédio Júnior e sempre fui apaixonado por tecnologia, desenvolvimento e música. Estudei Engenharia de Software na Fundação Assis Gurgacz e atualmente trabalhando como Analista Desenvolvedor na Aliare. Gosto de me desafiar e de aprender algo novo sempre em toda oportunidade.</div>
        </br>
       <div style="display: inline_block" align="center">
     <a href="https://discord.gg/3vw3y9R"> <img align="center" alt="pescador95-Discord" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg"></a>
