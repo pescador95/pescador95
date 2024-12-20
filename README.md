@@ -4,8 +4,7 @@
    <a >
       </br>
       Hi!<br/>
-My name is Iédio Júnior and I've always been passionate about technology, development, and music. I studied Software Engineering at Fundação Assis Gurgacz 
-and worked for three years and four months as a Java Backend Developer. I like to challenge myself and always learn something new at every opportunity.</div>
+My name is Iédio Júnior and I've always been passionate about technology, development, and music. I studied Software Engineering at Fundação Assis Gurgacz and have worked for more than three years and four months as a Developer Analyst at Aliare. I like to challenge myself always learning something new, and looking for new opportunities. I have a project that was my course completion work in which I developed a web system and chatbots to facilitate scheduling using a physiotherapy clinic as a use case, where I used the Quarkus framework, JPA, Hibernate, Java, and other technologies such as Redis, kind (Kubernetes in docker), liquibase, pipelines, e2e tests.</div>
       <br/>
        <div style="display: inline_block" align="center">
      <a href="https://discord.gg/3vw3y9R"> <img align="center" alt="pescador95-Discord" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg"></a>
@@ -18,7 +17,8 @@ and worked for three years and four months as a Java Backend Developer. I like t
    <a>
       </br>
       Olá!</br>
-Me chamo Iédio Júnior e sempre fui apaixonado por tecnologia, desenvolvimento e música. Estudei Engenharia de Software na Fundação Assis Gurgacz e trabalhei por três anos e quatro meses como Desenvolvedor backend Java. Gosto de me desafiar e de aprender algo novo sempre em toda oportunidade.</div>
+Me chamo Iédio Júnior e sempre fui apaixonado por tecnologia, desenvolvimento e música. Sou formado em Engenharia de Software na Fundação Assis Gurgacz e trabalhei como Analista Desenvolvedor na Aliare por 3 anos e 4 meses. Gosto de me desafiar e de aprender algo novo sempre, e estou em busca de uma nova oportunidade.
+Possuo um projeto que foi meu TCC em que desenvolvi um sistema web e chatbots para facilitar agendamentos usando como caso de uso uma clínica de fisioterapia, onde utilizei o framework Quarkus, JPA, Hibernate, Java, e outras tecnologias como Redis, Kind (Kubernetes in docker), liquibase, pipelines e testes e2e.</div>
        </br>
       <div style="display: inline_block" align="center">
     <a href="https://discord.gg/3vw3y9R"> <img align="center" alt="pescador95-Discord" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg"></a>
