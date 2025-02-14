@@ -22,7 +22,7 @@ DevOps & Tools: WSL, Jenkins, Azure DevOps
 **Creator and co-founder of Agenda Fácil:**  
 A micro SaaS for personalized daily scheduling with chatbot integrations.
 
-**Tech Stack:**  
+🔧 **Tech Stack:**  
 Languages & Frameworks: Node.js, Java, Quarkus, Spring  
 Containerization & Orchestration: Docker, Kind, Kubernetes, Ingress  
 Testing & CI/CD: JUnit, Liquibase, GitHub Actions  
@@ -56,7 +56,7 @@ DevOps & Ferramentas: WSL, Jenkins, Azure DevOps
 **Idealizador e co-fundador do Agenda Fácil:**  
 Um micro SaaS para agendamento diário personalizado com integrações via chatbot.
 
-**Tech Stack:**  
+🔧 **Tech Stack:**  
 Linguagens & Frameworks: Node.js, Java, Quarkus, Spring  
 Containerização & Orquestração: Docker, Kind, Kubernetes, Ingress  
 Testes & CI/CD: JUnit, Liquibase, GitHub Actions  
