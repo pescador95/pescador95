@@ -3,7 +3,8 @@
 Hi! I'm Iédio Júnior!  
 💻 Software Engineer | Backend Developer (Node.js, Java, Quarkus, Spring, Kubernetes, Observability, SaaS, Multitenancy)
 
-🚀 Passionate about technology and problem-solving, I have worked as a Software Developer since 2020, focusing on scalable, resilient, and maintainable backend solutions.
+🚀 Passionate about technology and problem-solving, he has worked as a Software Developer since 2020, focusing on scalable, resilient, creative, and easy-to-maintain backend solutions.
+I have been a Backend developer for over 5 years focused on Java and Node.js stacks and Web development, always seeking to deliver a quality service, seeking optimization, scalability, availability, resilience, easy maintainability, and other qualities in the software we develop, always striving to provide a great experience and generating value for customers.
 
 🔹 **Professional Experience**  
 **Software Developer at Aliare (2021-2024):**  
@@ -38,7 +39,8 @@ Observability & Monitoring: Prometheus, Grafana, OpenTelemetry, Loki
 Olá! Sou Iédio Júnior!  
 💻 Engenheiro de Software | Desenvolvedor Backend (Node.js, Java, Quarkus, Spring, Kubernetes, Observabilidade, SaaS, Multitenancy)
 
-🚀 Apaixonado por tecnologia e resolução de problemas, atuo como Desenvolvedor de Software desde 2020, com foco em soluções backend escaláveis, resilientes e de fácil manutenção.
+🚀 Apaixonado por tecnologia e resolução de problemas, atuo como Desenvolvedor de Software desde 2020, com foco em soluções backend escaláveis, resilientes, criativas e de fácil manutenção.
+Sou desenvolvedor Backend há mais de 5 anos focado nas stacks Java e Node.js e desenvolvimento Web, buscando sempre entregar um serviço de qualidade, buscando otimização, escalabilidade, disponibilidade, resiliência, fácil manutenabilidade e outras qualidades nos softwares que desenvolvo, prezando sempre levar uma ótima experiência e gerando valor aos clientes.
 
 🔹 **Experiência Profissional**  
 **Desenvolvedor de Software na Aliare (2021-2024):**  
