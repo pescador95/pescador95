@@ -55,7 +55,7 @@ Linguagens & Frameworks: Java, Spring Boot, JavaScript, Vue.js
 Bancos de Dados: PostgreSQL, Oracle  
 DevOps & Ferramentas: WSL, Jenkins, Azure DevOps  
 
-**Idealizador e co-fundador do Agenda Fácil:**  
+**Idealizador e cofundador do Agenda Fácil:**  
 Um micro SaaS para agendamento diário personalizado com integrações via chatbot.
 
 🔧 **Tech Stack:**  
