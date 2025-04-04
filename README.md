@@ -24,10 +24,10 @@ DevOps & Tools: WSL, Jenkins, Azure DevOps
 A micro SaaS for personalized daily scheduling with chatbot integrations.
 
 🔧 **Tech Stack:**  
-Languages & Frameworks: Node.js, Java, Quarkus, Spring  
+Languages & Frameworks: Node.js, Java, Quarkus, Express.js  
 Containerization & Orchestration: Docker, Kind, Kubernetes, Ingress  
 Testing & CI/CD: JUnit, Liquibase, GitHub Actions  
-Databases: PostgreSQL, Redis  
+Databases & Migrations: PostgreSQL, Redis   
 Observability & Monitoring: Prometheus, Grafana, OpenTelemetry, Loki
 
 📌 More about my projects:  
@@ -59,11 +59,12 @@ DevOps & Ferramentas: WSL, Jenkins, Azure DevOps
 Um micro SaaS para agendamento diário personalizado com integrações via chatbot.
 
 🔧 **Tech Stack:**  
-Linguagens & Frameworks: Node.js, Java, Quarkus, Spring  
+Linguagens & Frameworks: Node.js, Java, Quarkus, JavaScript, Express.js  
 Containerização & Orquestração: Docker, Kind, Kubernetes, Ingress  
 Testes & CI/CD: JUnit, Liquibase, GitHub Actions  
-Bancos de Dados: PostgreSQL, Redis  
-Observabilidade & Monitoramento: Prometheus, Grafana, OpenTelemetry, Loki
+Bancos de Dados & Migrations: PostgreSQL, Redis   
+Monitoramento & Observabilidade: Prometheus, Grafana, OpenTelemetry, Loki
+Testes & CI/CD: JUnit, GitHub Actions 
 
 📌 Mais sobre meus projetos:  
 [Agenda Fácil](https://github.com/pescador95/agendafacil)
