@@ -1,39 +1,3 @@
-# Welcome to my Profile
-
-Hi! I'm Iédio Júnior!  
-💻 Software Engineer | Backend Developer (Node.js, Java, Quarkus, Spring, Kubernetes, Observability, SaaS, Multitenancy)
-
-🚀 Passionate about technology and problem-solving, he has worked as a Software Developer since 2020, focusing on scalable, resilient, creative, and easy-to-maintain backend solutions.
-I have been a Backend developer for over 5 years focused on Java and Node.js stacks and Web development, always seeking to deliver a quality service, seeking optimization, scalability, availability, resilience, easy maintainability, and other qualities in the software we develop, always striving to provide a great experience and generating value for customers.
-
-🔹 **Professional Experience**  
-**Software Developer at Aliare (2021-2024):**  
-Responsible for implementing and maintaining functionalities in a large ERP system aimed at Agribusiness, working on the BackOffice, Accounting, Grains, and Inputs modules. I was responsible for developing new features and maintenance, in addition to participating in refactoring and optimization projects to improve the efficiency and scalability of solutions.
-
-Actively participate in implementation decision-making, aligning technical criteria with product and business requirements.
-
-Responsible for assisting the support team in investigating and resolving problems, ensuring the stability and continuous evolution of the platform, and assisting less experienced employees.
-
-
-🔧 **Tech Stack:**  
-Languages & Frameworks: Java, Spring Boot, JavaScript, Vue.js  
-Databases: PostgreSQL, Oracle  
-DevOps & Tools: WSL, Jenkins, Azure DevOps  
-
-**Creator and co-founder of Agenda Fácil:**  
-A micro SaaS for personalized daily scheduling with chatbot integrations.
-
-🔧 **Tech Stack:**  
-Languages & Frameworks: Node.js, Java, Quarkus, Express.js  
-Containerization & Orchestration: Docker, Kind, Kubernetes, Ingress  
-Testing & CI/CD: JUnit, Liquibase, GitHub Actions  
-Databases & Migrations: PostgreSQL, Redis   
-Observability & Monitoring: Prometheus, Grafana, OpenTelemetry, Loki
-
-📌 More about my projects:  
-[Agenda Fácil](https://github.com/pescador95/agendafacil)
-
----
 # Bem-vindo ao meu Perfil
 
 Olá! Sou Iédio Júnior!  
@@ -67,4 +31,43 @@ Monitoramento & Observabilidade: Prometheus, Grafana, OpenTelemetry, Loki
 Testes & CI/CD: JUnit, GitHub Actions 
 
 📌 Mais sobre meus projetos:  
-[Agenda Fácil](https://github.com/pescador95/agendafacil)
+[Agenda Fácil - Repositório](https://github.com/pescador95/agendafacil)
+[Agenda Fácil - Artigo no Linkedin](https://www.linkedin.com/posts/iediojunior_depois-de-algum-tempo-decidi-compartilhar-activity-7324071826777628672-X22O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAthApgB042EmdU3OxVjXXQOwSMSW88yrqw)
+
+---
+
+# Welcome to my Profile
+
+Hi! I'm Iédio Júnior!  
+💻 Software Engineer | Backend Developer (Node.js, Java, Quarkus, Spring, Kubernetes, Observability, SaaS, Multitenancy)
+
+🚀 Passionate about technology and problem-solving, he has worked as a Software Developer since 2020, focusing on scalable, resilient, creative, and easy-to-maintain backend solutions.
+I have been a Backend developer for over 5 years focused on Java and Node.js stacks and Web development, always seeking to deliver a quality service, seeking optimization, scalability, availability, resilience, easy maintainability, and other qualities in the software we develop, always striving to provide a great experience and generating value for customers.
+
+🔹 **Professional Experience**  
+**Software Developer at Aliare (2021-2024):**  
+Responsible for implementing and maintaining functionalities in a large ERP system aimed at Agribusiness, working on the BackOffice, Accounting, Grains, and Inputs modules. I was responsible for developing new features and maintenance, in addition to participating in refactoring and optimization projects to improve the efficiency and scalability of solutions.
+
+Actively participate in implementation decision-making, aligning technical criteria with product and business requirements.
+
+Responsible for assisting the support team in investigating and resolving problems, ensuring the stability and continuous evolution of the platform, and assisting less experienced employees.
+
+
+🔧 **Tech Stack:**  
+Languages & Frameworks: Java, Spring Boot, JavaScript, Vue.js  
+Databases: PostgreSQL, Oracle  
+DevOps & Tools: WSL, Jenkins, Azure DevOps  
+
+**Creator and co-founder of Agenda Fácil:**  
+A micro SaaS for personalized daily scheduling with chatbot integrations.
+
+🔧 **Tech Stack:**  
+Languages & Frameworks: Node.js, Java, Quarkus, Express.js  
+Containerization & Orchestration: Docker, Kind, Kubernetes, Ingress  
+Testing & CI/CD: JUnit, Liquibase, GitHub Actions  
+Databases & Migrations: PostgreSQL, Redis   
+Observability & Monitoring: Prometheus, Grafana, OpenTelemetry, Loki
+
+📌 More about my projects:  
+[Agenda Fácil - Repository](https://github.com/pescador95/agendafacil)
+[Agenda Fácil - Linkedin article](https://www.linkedin.com/posts/iediojunior_depois-de-algum-tempo-decidi-compartilhar-activity-7324071826777628672-X22O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAthApgB042EmdU3OxVjXXQOwSMSW88yrqw)
