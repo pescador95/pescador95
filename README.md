@@ -31,7 +31,9 @@ Monitoramento & Observabilidade: Prometheus, Grafana, OpenTelemetry, Loki
 Testes & CI/CD: JUnit, GitHub Actions 
 
 📌 Mais sobre meus projetos:  
+
 [Agenda Fácil - Repositório](https://github.com/pescador95/agendafacil)
+
 [Agenda Fácil - Artigo no Linkedin](https://www.linkedin.com/posts/iediojunior_depois-de-algum-tempo-decidi-compartilhar-activity-7324071826777628672-X22O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAthApgB042EmdU3OxVjXXQOwSMSW88yrqw)
 
 ---
@@ -69,5 +71,7 @@ Databases & Migrations: PostgreSQL, Redis
 Observability & Monitoring: Prometheus, Grafana, OpenTelemetry, Loki
 
 📌 More about my projects:  
+
 [Agenda Fácil - Repository](https://github.com/pescador95/agendafacil)
+
 [Agenda Fácil - Linkedin article](https://www.linkedin.com/posts/iediojunior_depois-de-algum-tempo-decidi-compartilhar-activity-7324071826777628672-X22O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAthApgB042EmdU3OxVjXXQOwSMSW88yrqw)
